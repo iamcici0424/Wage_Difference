@@ -1,5 +1,5 @@
 # Wage_Difference
-Final Project for Nonparametric Methods
+
 ## Introduction
 The goal of our final project is to study the wage difference between Black and White People and the reason behind it.
 
