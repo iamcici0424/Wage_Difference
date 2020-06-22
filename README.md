@@ -1,4 +1,4 @@
-# Wage Difference
+# Wage difference Between Black & White People
 
 ## [Project Description](doc/project_instruction.pdf)
 
@@ -43,6 +43,7 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 ```
 proj/
 ├── data/
-├── doc/
-└── figs/
+├── code/
+├── figs/
+└── output/
 ```
