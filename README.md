@@ -13,6 +13,15 @@ Term: Fall 2019
 	+ Yuting He yh3054@columbia.edu
 	+ Yang Meng ym2696@columbia.edu
 
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+
+```
+proj/
+├── data/
+├── figs/
+└── doc/
+```
+
 ## Introduction
 The goal of our final project is to study the wage difference between Black and White People and the reason behind it.
 
@@ -38,11 +47,6 @@ We were required to find some insights and bring them to the table with this dat
 <img src="figs/corr.jpg" alt="" width="500"/>
 </p>
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+## [Reports](doc/Group11.pdf)
 
-```
-proj/
-├── data/
-├── figs/
-└── doc/
-```
+## [Presentation Slides](doc/slides.pdf)
