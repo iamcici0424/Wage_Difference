@@ -1,5 +1,18 @@
 # Wage Difference
 
+## [Project Description](doc/project_instruction.pdf)
+
+Term: Fall 2019
+
++ Group 11
++ Team members
+
+	+ Chen Chen cc4291@columbia.edu
+	+ Sixing Hao sh3799@columbia.edu
+	+ Wenwen Shen ws2561@columbia.edu
+	+ Yuting He yh3054@columbia.edu
+	+ Yang Meng ym2696@columbia.edu
+
 ## Introduction
 The goal of our final project is to study the wage difference between Black and White People and the reason behind it.
 
