@@ -8,14 +8,20 @@ The data is roughly about 25,000 records of people between the ages of 18 and 70
 This is how our dataset looks like:
 
 <p align="center">
-  <img width="460" height="300" src="figs/data_str.png">
+  <img width="500" height="400" src="figs/data_str.png">
 </p>
 
 
 
 We were required to find some insights and bring them to the table with this dataset, especially, we were asked to utilize some nonparametric methods learnt in the class.
 
-<img src="figs/corr.jpg" alt="" width="500"/> <img src="figs/conclusion.jpg" alt="" width="500"/>
+* Correlation Comparison
+
+<img src="figs/conclusion.jpg" alt="" width="500"/>
+
+* Conclusion Slide
+
+<img src="figs/corr.jpg" alt="" width="500"/>
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
