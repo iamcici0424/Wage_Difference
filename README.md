@@ -2,7 +2,7 @@
 
 ## [Project Description](doc/project_instruction.pdf)
 
-Term: Fall 2019
+Term: Spring 2019
 
 + Group 11
 + Team members
