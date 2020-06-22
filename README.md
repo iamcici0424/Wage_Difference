@@ -42,8 +42,7 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
-├── instruction/
 ├── data/
-├── code/
-└── output/
+├── figs/
+└── doc/
 ```
