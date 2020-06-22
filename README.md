@@ -43,7 +43,6 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 ```
 proj/
 ├── data/
-├── doc/
 ├── figs/
-└── output/
+└── doc/
 ```
