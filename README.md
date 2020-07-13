@@ -4,11 +4,11 @@
 
 **Group 11 members**:
 
-	+ Chen Chen cc4291@columbia.edu
-	+ Sixing Hao sh3799@columbia.edu
-	+ Wenwen Shen ws2561@columbia.edu
-	+ Yuting He yh3054@columbia.edu
-	+ Yang Meng ym2696@columbia.edu
+* Chen Chen cc4291@columbia.edu
+* Sixing Hao sh3799@columbia.edu
+* Wenwen Shen ws2561@columbia.edu
+* Yuting He yh3054@columbia.edu
+* Yang Meng ym2696@columbia.edu
 	
 **Goal**: 
 
