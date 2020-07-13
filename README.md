@@ -28,6 +28,16 @@ proj/
 
 Here is the link to the [Project Description](doc/project_instruction.pdf). Also, we found some insights and brought them to the table with this dataset, especially, we utilized some nonparametric methods learnt in the class.
 
+* Correlation Comparison
+<p align="center">
+<img src="figs/conclusion.jpg" alt="" width="500"/>
+</p>
+
+* Conclusion Slide
+<p align="center">
+<img src="figs/corr.jpg" alt="" width="500"/>
+</p>
+
 ### Data
 
 * Link to data:[data/salary.txt]
@@ -40,7 +50,6 @@ This is how our dataset looks like:
   <img width="500" src="figs/data_str.png">
 </p>
 
-
 ### Code
 * [R code](code/Group11.Rmd)
 
@@ -49,12 +58,5 @@ This is how our dataset looks like:
 * [PDF Report](doc/Group11.pdf)
 * [Presentation Slides](doc/slides.pdf)
 
-* Correlation Comparison
-<p align="center">
-<img src="figs/conclusion.jpg" alt="" width="500"/>
-</p>
 
-* Conclusion Slide
-<p align="center">
-<img src="figs/corr.jpg" alt="" width="500"/>
-</p>
+
