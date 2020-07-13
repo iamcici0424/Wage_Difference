@@ -49,9 +49,9 @@ We were required to find some insights and bring them to the table with this dat
 </p>
 
 ### Code
-* [code](Group11.Rmd)
+* [R code](code/Group11.Rmd)
 
 ### Reports
 
-* [PDF Report](Group11.pdf)
-* [Presentation Slides](slides.pdf)
+* [PDF Report](doc/Group11.pdf)
+* [Presentation Slides](doc/slides.pdf)
