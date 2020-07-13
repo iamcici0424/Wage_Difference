@@ -20,12 +20,16 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 proj/
 ├── data/ data used in this project
 ├── code/ codes run
-└── doc/ instruction, pdf reports, and presentation slides if present
+├── doc/ instruction, pdf reports, and presentation slides if present
+└── figs/ pictures used in readme
 ```
 
 ### Introduction
 
 Here is the link to the [Project Description](doc/project_instruction.pdf).
+
+
+### Data
 
 The data is roughly about 25,000 records of people between the ages of 18 and 70, and the data are taken many decades ago so the wages are lower compared to current times.
 
