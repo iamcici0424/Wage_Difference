@@ -23,7 +23,7 @@ proj/
 └── doc/
 ```
 
-## Introduction
+### Introduction
 
 Here is the link to the [Project Description](doc/project_instruction.pdf).
 
@@ -48,10 +48,10 @@ We were required to find some insights and bring them to the table with this dat
 <img src="figs/corr.jpg" alt="" width="500"/>
 </p>
 
-## Reports
+### Code
+* [code](code/Group11.Rmd)
+
+### Reports
 
 * [PDF Report](doc/Group11.pdf)
-
-## Presentation Slides
-
-* [Slides PDF](doc/slides.pdf)
+* [Presentation Slides](doc/slides.pdf), and its [Google Slides Link]()
