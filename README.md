@@ -40,7 +40,7 @@ Here is the link to the [Project Description](doc/project_instruction.pdf). Also
 
 ### Data
 
-* Link to [data:](data/salary.txt)
+* Link to [data](data/salary.txt)
 
 * The data is roughly about 25,000 records of people between the ages of 18 and 70, and the data are taken many decades ago so the wages are lower compared to current times.
 
