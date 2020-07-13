@@ -54,4 +54,4 @@ We were required to find some insights and bring them to the table with this dat
 ### Reports
 
 * [PDF Report](doc/Group11.pdf)
-* [Presentation Slides](doc/slides.pdf), and its [Google Slides Link]()
+* [Presentation Slides](doc/slides.pdf)
