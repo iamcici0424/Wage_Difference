@@ -1,17 +1,18 @@
-# Wage difference Between Black & White People
+## Wage difference Between Black & White People
 
-## [Project Description](doc/project_instruction.pdf)
+**Term**: Spring 2019
 
-Term: Spring 2019
-
-+ Group 11
-+ Team members
+**Group 11 members**:
 
 	+ Chen Chen cc4291@columbia.edu
 	+ Sixing Hao sh3799@columbia.edu
 	+ Wenwen Shen ws2561@columbia.edu
 	+ Yuting He yh3054@columbia.edu
 	+ Yang Meng ym2696@columbia.edu
+	
+**Goal**: 
+
+The goal of our final project is to study the wage difference between Black and White People and the reason behind it.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
@@ -23,7 +24,8 @@ proj/
 ```
 
 ## Introduction
-The goal of our final project is to study the wage difference between Black and White People and the reason behind it.
+
+Here is the link to the [Project Description](doc/project_instruction.pdf).
 
 The data is roughly about 25,000 records of people between the ages of 18 and 70, and the data are taken many decades ago so the wages are lower compared to current times.
 
@@ -32,7 +34,6 @@ This is how our dataset looks like:
 <p align="center">
   <img width="500" src="figs/data_str.png">
 </p>
-
 
 
 We were required to find some insights and bring them to the table with this dataset, especially, we were asked to utilize some nonparametric methods learnt in the class.
@@ -47,6 +48,10 @@ We were required to find some insights and bring them to the table with this dat
 <img src="figs/corr.jpg" alt="" width="500"/>
 </p>
 
-## [Reports](doc/Group11.pdf)
+## Reports
 
-## [Presentation Slides](doc/slides.pdf)
+* [PDF Report](doc/Group11.pdf)
+
+## Presentation Slides
+
+* [Slides PDF](doc/slides.pdf)
