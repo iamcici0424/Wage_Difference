@@ -26,10 +26,11 @@ proj/
 
 ### Introduction
 
-Here is the link to the [Project Description](doc/project_instruction.pdf).
-
+Here is the link to the [Project Description](doc/project_instruction.pdf). Also, we found some insights and brought them to the table with this dataset, especially, we utilized some nonparametric methods learnt in the class.
 
 ### Data
+
+* Link to data:[data/salary.txt]
 
 The data is roughly about 25,000 records of people between the ages of 18 and 70, and the data are taken many decades ago so the wages are lower compared to current times.
 
@@ -40,7 +41,13 @@ This is how our dataset looks like:
 </p>
 
 
-We were required to find some insights and bring them to the table with this dataset, especially, we were asked to utilize some nonparametric methods learnt in the class.
+### Code
+* [R code](code/Group11.Rmd)
+
+### Reports
+
+* [PDF Report](doc/Group11.pdf)
+* [Presentation Slides](doc/slides.pdf)
 
 * Correlation Comparison
 <p align="center">
@@ -51,11 +58,3 @@ We were required to find some insights and bring them to the table with this dat
 <p align="center">
 <img src="figs/corr.jpg" alt="" width="500"/>
 </p>
-
-### Code
-* [R code](code/Group11.Rmd)
-
-### Reports
-
-* [PDF Report](doc/Group11.pdf)
-* [Presentation Slides](doc/slides.pdf)
